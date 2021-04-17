@@ -1,2 +1,2 @@
 # Sragnarok
-ragnarok
+Ragnarok Classic
